@@ -1,0 +1,3 @@
+/Users/eliseibigun/Documents/Swift/codegen/build/CMakeFiles/Codegen.dir
+/Users/eliseibigun/Documents/Swift/codegen/build/CMakeFiles/ALL_BUILD.dir
+/Users/eliseibigun/Documents/Swift/codegen/build/CMakeFiles/ZERO_CHECK.dir

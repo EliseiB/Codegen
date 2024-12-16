@@ -1,0 +1,13 @@
+//
+//  Localizable.strings
+//  codegen
+//
+//  Created by Elisei Bigun on 12/15/24.
+//
+
+"gpt_code_generation" = "Генерация кода GPT";
+"Enter your request..." = "Введите ваш запрос...";
+"Generate code" = "Сгенерировать код";
+"Run program" = "Запустить программу";
+"Result:" = "Результат:";
+"Enter your query and click the button." = "Введите запрос и нажмите кнопку.";
