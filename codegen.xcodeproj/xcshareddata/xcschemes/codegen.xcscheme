@@ -80,6 +80,7 @@
    </AnalyzeAction>
    <ArchiveAction
       buildConfiguration = "Release"
+      customArchiveName = "codegenBeta"
       revealArchiveInOrganizer = "YES">
    </ArchiveAction>
 </Scheme>

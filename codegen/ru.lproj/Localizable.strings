@@ -5,9 +5,36 @@
 //  Created by Elisei Bigun on 12/15/24.
 //
 
-"gpt_code_generation" = "Генерация кода GPT";
-"Enter your request..." = "Введите ваш запрос...";
-"Generate code" = "Сгенерировать код";
-"Run program" = "Запустить программу";
-"Result:" = "Результат:";
-"Enter your query and click the button." = "Введите запрос и нажмите кнопку.";
+/* Initial result text */
+"Enter your input" = "Введите ваш ввод";
+
+/* Model description */
+"Great for most tasks" = "Отлично подходит для большинства задач";
+"Uses advanced reasoning" = "Использует расширенное рассуждение";
+"Faster at reasoning" = "Быстрее в рассуждениях";
+
+/* Menu option */
+"More models" = "Больше моделей";
+"Temporary chat" = "Временный чат";
+
+/* Model label */
+"Model" = "Модель";
+
+/* Section header */
+"Main Models" = "Основные модели";
+"Other Options" = "Другие опции";
+
+/* API Key placeholder */
+"Enter your API key (optional)" = "Введите ваш API-ключ (необязательно)";
+
+/* Button title */
+"Build and Run" = "Собрать и Запустить";
+
+/* Error message when source file is missing */
+"Source file not found. Please generate the code first." = "Исходный файл не найден. Сначала сгенерируйте код.";
+
+/* Chat input placeholder */
+"Message ChatGPT" = "Сообщение ChatGPT";
+
+/* Error message when saving fails */
+"Error saving code: %@" = "Ошибка при сохранении кода: %@";

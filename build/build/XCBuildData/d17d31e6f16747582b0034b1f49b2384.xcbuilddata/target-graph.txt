@@ -1,7 +1,0 @@
-Target dependency graph (3 targets)
-Target 'ALL_BUILD' in project 'codegen'
-➜ Explicit dependency on target 'ZERO_CHECK' in project 'codegen'
-➜ Explicit dependency on target 'Codegen' in project 'codegen'
-Target 'Codegen' in project 'codegen'
-➜ Explicit dependency on target 'ZERO_CHECK' in project 'codegen'
-Target 'ZERO_CHECK' in project 'codegen' (no dependencies)

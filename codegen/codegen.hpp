@@ -4,12 +4,20 @@
 //
 //  Created by Elisei Bigun on 12/14/24.
 //
+
+
+// codegen.hpp
+// codegen.hpp
 #ifndef CODEGEN_HPP
 #define CODEGEN_HPP
 
 #include <string>
 
-// Объявляем функцию, которую будем вызывать из Swift.
-std::string run_codegen(const std::string &user_request);
+// Функция для генерации кода на основе пользовательского ввода
 
-#endif
+// Функция для компиляции и запуска приложения
+const char* buildAndRunApplication(const char* sourceCodePath, const char* outputExecutablePath);
+
+
+const char* generateCode(const char* input, const char* apiKey = nullptr);
+#endif // CODEGEN_HPP

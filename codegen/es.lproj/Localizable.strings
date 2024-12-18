@@ -5,9 +5,36 @@
 //  Created by Elisei Bigun on 12/15/24.
 //
 
-"gpt_code_generation" = "Generación de código GPT";
-"Enter your request..." = "Ingrese su solicitud...";
-"Generate code" = "Generar código";
-"Run program" = "Ejecutar programa";
-"Result:" = "Resultado:";
-"Enter your query and click the button." = "Ingrese su consulta y haga clic en el botón.";
+/* Initial result text */
+"Enter your input" = "Ingrese su entrada";
+
+/* Model description */
+"Great for most tasks" = "Excelente para la mayoría de las tareas";
+"Uses advanced reasoning" = "Usa razonamiento avanzado";
+"Faster at reasoning" = "Más rápido en razonamiento";
+
+/* Menu option */
+"More models" = "Más modelos";
+"Temporary chat" = "Chat temporal";
+
+/* Model label */
+"Model" = "Modelo";
+
+/* Section header */
+"Main Models" = "Modelos principales";
+"Other Options" = "Otras opciones";
+
+/* API Key placeholder */
+"Enter your API key (optional)" = "Ingrese su clave API (opcional)";
+
+/* Button title */
+"Build and Run" = "Construir y Ejecutar";
+
+/* Error message when source file is missing */
+"Source file not found. Please generate the code first." = "Archivo fuente no encontrado. Por favor, genere el código primero.";
+
+/* Chat input placeholder */
+"Message ChatGPT" = "Mensaje ChatGPT";
+
+/* Error message when saving fails */
+"Error saving code: %@" = "Error al guardar el código: %@";
